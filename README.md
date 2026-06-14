@@ -1,6 +1,18 @@
 # Full-Stack To-Do App
 
+**✨ Status: LIVE IN PRODUCTION ✨**
+
 A simple to-do application demonstrating full-stack deployment with React frontend and Node.js/Express backend.
+
+## 🚀 Live Demo
+
+**👉 [Try the app now!](https://client-iota-eight-59.vercel.app)**
+
+| Component | URL |
+|-----------|-----|
+| **Frontend** | https://client-iota-eight-59.vercel.app |
+| **Backend API** | https://todolist-fullstack-yy4f.onrender.com/api |
+| **Repository** | https://github.com/gagan2105/todolist-fullstack |
 
 ## Features
 
@@ -217,9 +229,11 @@ curl -X DELETE http://localhost:5000/api/todos/todo-id
 
 ## Live Demo
 
-Once deployed:
-- Frontend: https://your-app.vercel.app
-- Backend: https://your-api.onrender.com/api/health
+🚀 **Live Application is NOW LIVE!**
+- **Frontend:** https://client-iota-eight-59.vercel.app
+- **Backend API:** https://todolist-fullstack-yy4f.onrender.com/api/health
+
+Visit the frontend link above to use the to-do app!
 
 ## Additional Resources
 
